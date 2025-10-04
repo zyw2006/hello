@@ -1,0 +1,2 @@
+docker build ./ -t wsdtv:1.0.34
+docker run -p 3000:3000 wsdtv:1.0.3455555555555555555
